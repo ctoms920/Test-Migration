@@ -1,0 +1,12 @@
+{
+  "name" : "furious-heyrovsky-1615397519579",
+  "variableSets" : {
+    "default" : { }
+  },
+  "variableXpaths" : { },
+  "uidInXincludeCompntListFileName" : false,
+  "xincludeXpaths" : { },
+  "additionalFiles" : { },
+  "optionalComponentsInUse" : [ ],
+  "structured" : true
+}
